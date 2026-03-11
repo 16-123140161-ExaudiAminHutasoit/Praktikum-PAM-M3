@@ -23,8 +23,3 @@ Aplikasi ini dibuat menggunakan Jetpack Compose untuk menampilkan halaman profil
 ## Screenshot Aplikasi
 ![Screenshot](screenshot.png)
 
-## Identitas Mahasiswa
-Nama : Exaudi Amin Hutasoit  
-NIM : 123140161  
-Program Studi : Informatika  
-Institut Teknologi Sumatera
