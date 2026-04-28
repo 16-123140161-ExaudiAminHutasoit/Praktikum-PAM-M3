@@ -1,4 +1,4 @@
-# Praktikum PAM M4 - My Profile App
+# Praktikum PAM M3 - My Profile App
 ## Deskripsi 
 Aplikasi ini dibuat menggunakan Jetpack Compose untuk menampilkan halaman profil sederhana.
 ## Fitur 
