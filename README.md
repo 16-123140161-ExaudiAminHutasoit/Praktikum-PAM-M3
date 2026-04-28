@@ -18,4 +18,5 @@ Aplikasi ini dibuat menggunakan Jetpack Compose untuk menampilkan halaman profil
 - Button 
 - Image
 ## Screenshot Aplikasi 
-![Screenshot](screenshot.png)
+<img width="394" height="869" alt="image" src="https://github.com/user-attachments/assets/28034781-6f45-46a6-bf5d-e95081f43de9" />
+
